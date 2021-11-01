@@ -1,0 +1,5 @@
+- 👋 Hi, I’m HARSH!
+- 👀 I’m interested in AI/ML, Deep Learning, Cloud Computing.
+- 🌱 I’m currently learning CSE-AI.
+- 💞️ I’m looking to collaborate on in anything which is around AI/ML, Deep Learning, Cloud Computing.
+- 📫 How to reach me harsh.dave1506@gmail.com
